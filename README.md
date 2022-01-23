@@ -15,3 +15,6 @@
 - git checkout *master* (💡 volta para branch *master* ou branch *main*)
 - git merge *novaB* (💡 pega as modificações salvas da *novaB* e adiciona a branch principal)
 - git push (💡 adiciona mudanças na nuvem)
+
+**Remove branch**
+- git push origin --delete [branch]

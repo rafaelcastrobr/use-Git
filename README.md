@@ -17,4 +17,4 @@
 - git push (💡 adiciona mudanças na nuvem)
 
 **Remove branch**
-- git push origin --delete [branch]
+- git branch -d [branch]
